@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: troll
+  title: The Troll [SAMPLE RECREATION]
+  author: VFlyer, Royal_Flu$h
+  description: '[i]The see me rolling. They hating.[/i]
+
+    [b]THIS IS A SAMPLED RECREATION USING EXTERNAL TOOLS TO OBTAIN FROM MODULES THAT
+    WOULD NORMALLY NOT BE FIXED WITHIN THE GIVEN TIME CONTRAINTS. PLEASE KEEP USING
+    THE ORIGINAL MODULE FOR THE TIME BEING. THIS MOD IS EXPERIEMENTAL.[/b]
+
+
+    Module Originally made by Royal_Flu$h
+
+    Recreated by VFlyer viva AssetStudio and Dnspy
+
+
+    Manual: https://ktane.timwi.de/HTML/The%20Troll.html'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 60f60337654352f4f9d77d6b94f23b48, type: 3}
